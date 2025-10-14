@@ -248,7 +248,7 @@ Exciting features coming soon:
 This project and its assets are **proprietary**.  
 The application is provided *as-is* for personal use.
 
-**Copyright © 2024 elsy-sc. All rights reserved.**
+**Copyright © 2025 elsy-sc. All rights reserved.**
 
 ---
 
